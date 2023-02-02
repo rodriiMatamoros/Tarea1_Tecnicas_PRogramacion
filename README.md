@@ -1,0 +1,2 @@
+# Tarea1_Tecnicas_PRogramacion
+Tarea 1 Curso_22_23_Tecnicas
