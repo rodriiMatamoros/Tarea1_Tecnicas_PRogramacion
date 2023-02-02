@@ -1,8 +1,8 @@
-# Tarea1_Tecnicas_PRogramacion
+# Tarea1_Tecnicas_Programacion
 Tarea 1 Curso_22_23_Tecnicas
 
 ## Nota: 
-MI repositorio es https://github.com/rodriiMatamoros/Tarea1_Tecnicas_PRogramacion.git
+Mi repositorio es https://github.com/rodriiMatamoros/Tarea1_Tecnicas_PRogramacion.git
 
 ## Enunciado
 
