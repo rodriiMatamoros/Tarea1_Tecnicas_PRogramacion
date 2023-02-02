@@ -1,21 +1,19 @@
-//¿Qué algoritmos usas en tu vida cotidiana? 
-
-
-
-// Path: pregunta2.java
-// Compare this snippet from pregunta3.java:
-// //¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
 //¿Qué algoritmos usas en tu vida cotidiana?
-//¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?
 
- 
-import java.util.Scanner;
+//Utilizo algoritmos para resolver problemas matematicos, como por ejemplo, para resolver ecuaciones de segundo grado.
 
-public class pregunta1 {    
+//Este es el codigo
+class EcuacionSegundoGrado{
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("¿Qué es un algoritmo?");
-        String respuesta = sc.nextLine();
-        System.out.println("¿Qué es un algoritmo? " + respuesta);
+        double a = 1;
+        double b = 5;
+        double c = 6;
+        double x1 = (-b + Math.sqrt(Math.pow(b, 2) - 4 * a * c)) / (2 * a);
+        double x2 = (-b - Math.sqrt(Math.pow(b, 2) - 4 * a * c)) / (2 * a);
+        System.out.println("El valor de x1 es: " + x1);
+        System.out.println("El valor de x2 es: " + x2);
     }
 }
+
+
+
