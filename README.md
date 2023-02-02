@@ -1,6 +1,9 @@
 # Tarea1_Tecnicas_PRogramacion
 Tarea 1 Curso_22_23_Tecnicas
 
+##NOta: 
+MI repositorio es https://github.com/rodriiMatamoros/Tarea1_Tecnicas_PRogramacion.git
+
 
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.__  Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:
 
